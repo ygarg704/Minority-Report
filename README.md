@@ -2,7 +2,7 @@
 
 For Data Day Grind 2.0!
 
-Access the application [here]()
+Access the Dashboard [here](https://minorityreport-sf.herokuapp.com/)
 
 ## Video Walkthrough
 
