@@ -22,6 +22,7 @@ server = app.server
 df = pd.read_csv('datasets/ds_viz.csv')
 ds_unique = pd.read_csv('datasets/ds_unique.csv')
 
+
 #dropdown values
 district_options = []
 for district in ds_unique['district'].unique():
@@ -56,6 +57,7 @@ ds3 = pd.read_csv('datasets/ds3.csv')
 
 # table 4
 ds4 = pd.read_csv('datasets/ds4.csv')
+
 
 # figure 4
 fig_4 = px.line(ds4, x='year', y='Crime Frequency', color='district')
