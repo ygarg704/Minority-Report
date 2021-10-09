@@ -4,5 +4,3 @@ plotly.express
 pandas
 gunicorn
 dash_bootstrap_components
-json
-calendar
