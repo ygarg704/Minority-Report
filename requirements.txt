@@ -1,7 +1,7 @@
 dash
 plotly
-plotly.express
 pandas
 gunicorn
 dash_bootstrap_components
-dash.dependencies
+dash_html_components
+dash_core_components
