@@ -1,5 +1,5 @@
 datasets/sanFran.csv
+datasets/sanFran_clean.csv
 
 *.pyc
 .DS_Store
-datasets/sanFran_clean.csv
