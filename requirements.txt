@@ -4,4 +4,4 @@ plotly.express
 pandas
 gunicorn
 dash_bootstrap_components
-plotly.graph_objects
+dash_core_components
