@@ -45,3 +45,8 @@ Recently, patrol planning and other predictive policing strategies were improved
 - Jupyter Notebook & VS Code editor (not mandatory)
 
 ## Instructions
+
+1. Clone the GitHub repo on your local machine.
+2. Navigate to the project folder in the terminal and run `pip install -r requirements.txt` to install dependencies.
+3. Open the workspace in a code editor of choice and run the `app.py` file.
+4. Navigate to http://127.0.0.1:8050/ (or your default location) in your browser to access a local version of the dashboard or navigate to https://minorityreport-sf.herokuapp.com/ to access a live version.
