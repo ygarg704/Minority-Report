@@ -6,7 +6,7 @@ Access the Dashboard [here](https://minorityreport-sf.herokuapp.com/)
 
 ## Video Walkthrough
 
-For a detailed video walkthrough for the application and analysis, click [here]()
+For a detailed video walkthrough for the application and analysis, click [here](https://www.youtube.com/watch?v=RcyWf8ytDOU)
 
 ![Alt text](screenshots/1.png)
 
